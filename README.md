@@ -1,4 +1,4 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3lXTm5ZRkNPRmFCUmg4M2VhbnEwMThSNG5WUXxBQ3Jtc0tsRWpMcUhlaWdfREJlN05YLXV0bzNQcVlCTTVWSV9lanMycXdSQlVBekhqbjZ1aE5YazB5YUY0ZC1MOG5pZVQtbDRNN0tHbUIyQkstRHl5czRUeUVvTlFMYmRDN2V3dWxrVS1BLTJZc2hWLTJyRlZ2MA&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)]
+[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa3lXTm5ZRkNPRmFCUmg4M2VhbnEwMThSNG5WUXxBQ3Jtc0tsRWpMcUhlaWdfREJlN05YLXV0bzNQcVlCTTVWSV9lanMycXdSQlVBekhqbjZ1aE5YazB5YUY0ZC1MOG5pZVQtbDRNN0tHbUIyQkstRHl5czRUeUVvTlFMYmRDN2V3dWxrVS1BLTJZc2hWLTJyRlZ2MA&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Chaitanya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
