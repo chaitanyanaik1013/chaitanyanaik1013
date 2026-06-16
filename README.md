@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chaitanyanaik1013" alt="chaitanyanaik1013" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/chaitanyanaik01" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanyanaik01?logo=twitter&style=for-the-badge" alt="chaitanyanaik01" /></a> </p>
+<p align="left"> <a href="https://x.com/chaitanyanaik01" target="blank"><img src="https://img.shields.io/twitter/follow/chaitanyanaik01?logo=twitter&style=for-the-badge" alt="chaitanyanaik01" /></a> </p>
 
 - 🔭 I’m currently working on **Building Scalable Backends**
 
@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chaitanyanaik01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaitanyanaik01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chaitanya-naik-186b421b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya-naik-186b421b0" height="30" width="40" /></a>
+<a href="https://www.x.com/chaitanyanaik01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chaitanyanaik01" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chaitanya-naik-186b421b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chaitanya-naik-186b421b0" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/chaitanyanaik10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chaitanyanaik10" height="30" width="40" /></a>
 </p>
 
